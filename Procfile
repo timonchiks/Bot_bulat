@@ -1,1 +1,1 @@
-worker: python3 ./vk/main.py
+worker: python3 ./bot.py
